@@ -1,5 +1,8 @@
 div{
-  border=5px solid #FFFFFFFF;
-  float:left;
+  background-color:#000000;
+  height:50px;
+  width:1000px;
+  border:10px solid #FFFFFFFF;
+  float:centre;
 
 }
