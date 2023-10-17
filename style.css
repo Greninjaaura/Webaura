@@ -1,3 +1,11 @@
+    <style>
+  body {
+    background-image: url('IMG_20231016_153222.jpg');
+    background-size: cover; /* Adjust to your preference */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional, keeps the background fixed while scrolling */
+  }
+</style>
 div{
   background-color:#000000;
   height:50px;
